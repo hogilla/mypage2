@@ -1,0 +1,28 @@
+img 
+{ float: left;
+	width: 100%;
+}	
+
+p
+{ float: left;
+	width: 50%;
+}
+
+carousel-inner
+{ float: left; }
+
+.workExperience
+{background-color: silver;
+padding-left: 20%;
+padding-right: 20%;}
+
+.skills
+{background-color: silver;
+padding-left: 20%;
+padding-right: 20%;}
+
+.jw
+{background-color: blue;}
+
+body
+{background-color: green;}
